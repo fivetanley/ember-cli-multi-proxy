@@ -44,7 +44,9 @@
     "ember-addon"
   ],
   "dependencies": {
-    "ember-cli-babel": "^5.1.7"
+    "ember-cli-babel": "^5.1.7",
+    "express-http-proxy": "^0.10.1",
+    "morgan": "^1.7.0"
   },
   "ember-addon": {
     "configPath": "tests/dummy/config"
